@@ -58,3 +58,11 @@ print("Is operator:",a is b) #In operator: True
 print("Is Not operator:",a is not c) #Not In operator: True
 
 
+#bitwise operators
+
+print("and operator:",a&b)
+print("or operator:",a|b)            
+print("XOR operator:",a^b)
+print("Not operator:",~b)
+print("left shift operator:",a<<b)
+print("right shift operator:",a>>b)

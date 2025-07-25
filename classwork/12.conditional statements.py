@@ -26,7 +26,7 @@ elif amount>500:
 else:
     print("save the money and sleep")  
 
-
+#3
 num=int(input("enter the number:"))
 if num>0:
     print("positive number")
@@ -34,3 +34,5 @@ elif num<0:
     print("negative number")
 else:
     print("zero")
+
+#4
